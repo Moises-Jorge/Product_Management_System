@@ -1,4 +1,4 @@
-package com.project_gemini_ai.sgpd;
+package com.basics_projects.sgpd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
